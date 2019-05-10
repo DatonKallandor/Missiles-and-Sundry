@@ -1,8 +1,8 @@
 {
     "id": "dk_mis_09",
-    "name": "Missile Rebalance 0.9",
+    "name": "Missile and Sundry 0.9.1a",
     "author": "DatonKallandor",
     "version": "0.11",
-    "description": "Rebalances Missiles 0.9",
-    "gameVersion": "0.9a RC10",
+    "description": "Rebalances Missiles",
+    "gameVersion": "0.9.1a RC6",
 }
